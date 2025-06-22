@@ -135,6 +135,7 @@
             "models.tsmixer.html",
             "models.tsmixerx.html",
             "models.vanillatransformer.html"
+            "models.alternatingtransformer.html"
             ]
         },
         "models.html",

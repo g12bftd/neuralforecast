@@ -54,6 +54,7 @@ website:
           - models.tsmixer.ipynb
           - models.tsmixerx.ipynb
           - models.vanillatransformer.ipynb
+          - models.alternatingtransformer.ipynb
         - models.ipynb
         - section: Train/Evaluation
           contents:
